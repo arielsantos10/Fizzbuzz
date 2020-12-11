@@ -1,0 +1,19 @@
+body {
+    background-color: #FFFAFA;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container {
+    background-color: #FFFAFA;
+    display: flex;
+    width: 100%;
+}
+
+.container .resultado {
+    background-color: #fff;
+    padding: 50px;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    border: 1px solid #BEBEBE;
+}
+
+
